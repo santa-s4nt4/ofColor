@@ -1,5 +1,7 @@
 #include "ofApp.h"
 
+//First commit!
+
 void ofApp::setup() {
 	ofSetVerticalSync(true);	
 	ofSetFrameRate(60);
